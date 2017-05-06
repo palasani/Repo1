@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 069D-4EC3
+
+ Directory of C:\Tools\Git\MyFirst
+
+05/06/2017  11:39 PM    <DIR>          .
+05/06/2017  11:39 PM    <DIR>          ..
+05/06/2017  10:49 PM               395 index.html
+05/06/2017  10:48 PM               353 text1.txt
+05/06/2017  11:39 PM                 0 text2.txt
+               3 File(s)            748 bytes
+               2 Dir(s)  15,594,725,376 bytes free
